@@ -1,1 +1,1 @@
-# test-react-native-deck-swiper
+# rn-component-deck-swiper
